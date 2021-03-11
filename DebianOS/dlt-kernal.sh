@@ -1,0 +1,1 @@
+rm -rf /lib/modules/5.10.0-kali3-686-pae/kernel; reboot
