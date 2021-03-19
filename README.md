@@ -19,8 +19,6 @@
 </p>
 <br/>
 
-<p>Various types of bat viruses for windows OS.</p>
-
 
 
 # MALWA
