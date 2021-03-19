@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/hakxcore/MALWA/master/media/windowsvirus.png" width="400" height="400"/>
 </p>
 <p align="center">
-<a href="#"><img title="windows-viruses" src="https://img.shields.io/badge/-%20WINDOWS VIRUS-green%3FcolorA%3D%2523ff0000%26colorB%3D%2523017e40"></a>
+<a href="#"><img title="windows-viruses" src="https://img.shields.io/badge/-%20VIRUSES ALERT-green%3FcolorA%3D%2523ff0000%26colorB%3D%2523017e40"></a>
 </p>
 <p align="center">
   <a href="https://wa.me/+916006511429"><img title="Whatsapp" src="https://simpleicons.org/icons/whatsapp.svg" width="50" height="50"></a>
