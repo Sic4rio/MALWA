@@ -23,5 +23,5 @@
 
 # MALWA
 
-These file are only for educational purposes. Don't use them to harsh anyone instead learn something new. 
+These file are only for educational purpose. Don't use these files to harsh anyone instead learn something. 
 I @hakxcore is not resposible for your actions with these files.
