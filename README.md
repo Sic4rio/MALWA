@@ -12,9 +12,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/hakxcore/followers"><img title="Followers" src="https://img.shields.io/github/followers/hakxcore?color=blue&style=flat-square"></a>
-<a href="https://github.com/hakxcore/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/hakxcore/windows-viruses?color=red&style=flat-square"></a>
-<a href="https://github.com/hakxcore/windows-viruses/network/members"><img title="Forks" src="https://img.shields.io/github/forks/hakxcore/windows-viruses?color=red&style=flat-square"></a>
-<a href="https://github.com/hakxcore/windows-viruses/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/hakxcore/windows-viruses?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/hakxcore/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/hakxcore/MALWA?color=red&style=flat-square"></a>
+<a href="https://github.com/hakxcore/windows-viruses/network/members"><img title="Forks" src="https://img.shields.io/github/forks/hakxcore/MALWA?color=red&style=flat-square"></a>
+<a href="https://github.com/hakxcore/windows-viruses/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/hakxcore/MALWA?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 <br/>
