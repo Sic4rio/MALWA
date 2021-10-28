@@ -19,6 +19,7 @@
 
 
 # MALWA
+If you don't know what you are doing please don't touch these files, these files are as distructive as poison☣️
 
   # VIRUSES ALERT
 These file are only for educational purpose. Don't use these files to harsh anyone instead learn something. 
