@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hakxcore/MALWA/master/media/windowsvirus.png" width="400" height="400"/>
+  <img src="https://raw.githubusercontent.com/hakxcore/MALWA/master/media/windowsvirus.png" width="300" height="250"/>
 </p>
 <p align="center">
 <a href="#"><img title="viruses" src="https://img.shields.io/badge/-%20VIRUSES ALERT-green%3FcolorA%3D%2523ff0000%26colorB%3D%2523017e40"></a>
