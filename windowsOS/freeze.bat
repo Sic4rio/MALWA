@@ -7,4 +7,5 @@ start www.earth.google.com
 start www.solarsystem.appzend.net
 start www.cybermap.kaspersky.com
 start www.threatmap.checkpoint.com
+start www.theannoyingsite.com/
 goto :a
